@@ -21,7 +21,7 @@ jobs:
           distribution: temurin
 
       - name: clean project
-        run: ./gradlew clean
+        run: sudo ./gradlew clean
 
       - name: run all tests
         run: ./gradlew testClasses
