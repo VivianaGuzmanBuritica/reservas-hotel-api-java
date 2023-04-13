@@ -120,4 +120,8 @@ La API devolverá la nueva reserva creada en formato JSON:
 
 ### Cliente:
 
-![Cliente](https://github.com/VivianaGuzmanBuritica/reservas-hotel-api-java/blob/main/uml-reservas.drawio.png)
+![Cliente](https://github.com/VivianaGuzmanBuritica/reservas-hotel-api-java/blob/main/clase_cliente.drawio.png)
+
+### Reserva:
+
+![Cliente](https://github.com/VivianaGuzmanBuritica/reservas-hotel-api-java/blob/main/clase_reserva.drawio.png)
